@@ -1,0 +1,6 @@
+{
+  "name": "GlobalGrand",
+  "description": "Dunyo bo'ylab universitetlar, qabul talablari va xalqaro grantlar bazasi, sun'iy intellektli real-time tekshiruv va shaxsiy tavsiya tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
